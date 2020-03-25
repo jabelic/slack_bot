@@ -17,9 +17,15 @@
 ### Requirements
 
 * python3.7
+
+以下, PythonのPackage
+
 * beautifulsoup4           4.8.0
+
 * schedule                 0.6.0
+
 * slacker                  0.13.0
+
 * requests                 2.22.0
 
 ### install
