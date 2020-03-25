@@ -22,6 +22,8 @@ def notice():
     slack = settings()
     if detection_str():
         slack.chat.post_message('#weather', "@here  雨が降るかもしれないよ！傘を忘れずに！", link_names=1)
+    else:
+        slack.chat.post_message('#weather', "@here  雨降らないよ！！", link_names=1)
 
 def main():
     schedule.every().day.at("07:30").do(notice)
