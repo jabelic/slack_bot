@@ -18,7 +18,7 @@
 
 * python3.7
 
-以下, PythonのPackage
+以下, PythonのLibrary
 
 * beautifulsoup4           4.8.0
 
