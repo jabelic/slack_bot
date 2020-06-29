@@ -30,4 +30,6 @@
 
 ### install
 
-`$ pip install -r requirements.txt`
+`$ git clone https://github.com/jabelic/slack_bot.git`
+
+`$ pip install -r requirements.txt`å
